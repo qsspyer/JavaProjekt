@@ -1,0 +1,17 @@
+package day1.examples;
+
+
+/* Java is indepedent from any special platform
+ * it uses a so called JVM (Java Virtual Machine) between the language
+ * and the operating system.
+ */
+
+public class MyFirstClass {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		System.out.println("Hello World");
+	}
+
+}
